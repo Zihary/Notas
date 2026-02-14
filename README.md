@@ -8,7 +8,7 @@ Aplicación desarrollada en Flutter para la gestión de notas con almacenamiento
 
 Notas Unison es una aplicación móvil y web que permite crear, editar y eliminar notas de manera sencilla e intuitiva.
 
-La aplicación ofrece una interfaz moderna tipo Pinterest, selección de colores personalizados para cada nota y almacenamiento local persistente utilizando Hive.
+La aplicación ofrece una interfaz moderna tipo Grid, selección de colores personalizados para cada nota y almacenamiento local persistente utilizando Hive.
 
 Está diseñada para organizar ideas, tareas o apuntes de forma visual y atractiva.
 
