@@ -53,7 +53,7 @@ Está diseñada para organizar ideas, tareas o apuntes de forma visual y atracti
 <img width="321" height="589" alt="image" src="https://github.com/user-attachments/assets/ecd2e9f4-6adf-4d16-aa21-2b95500a0fc1" />
 
 ### Eliminar Nota
-<img width="625" height="577" alt="image" src="https://github.com/user-attachments/assets/1f81c417-2e31-4337-89e1-046d910fa6d2" />
+<img width="325" height="577" alt="image" src="https://github.com/user-attachments/assets/1f81c417-2e31-4337-89e1-046d910fa6d2" />
 
 
 ---
